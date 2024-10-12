@@ -1,4 +1,4 @@
-# cule
+# Functional Calculator
 Functional Calculator
 
-## This project is in progess...
+## Calculator for Desktops
